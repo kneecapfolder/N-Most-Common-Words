@@ -1,5 +1,3 @@
-# https://www.youtube.com/watch?v=ZQ9JO0e9468
-
 import sys
 
 def main(path):
